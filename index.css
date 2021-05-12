@@ -72,6 +72,9 @@ h4{
     margin:2px;
     padding :1px;
 }
+.exps{
+    float:left;
+}
 table{
     width:95%;
     color:rgb(0,0,255);
