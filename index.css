@@ -73,7 +73,8 @@ h4{
     padding :1px;
 }
 .exps{
-    text-align:left;
+    display:inline-block;
+    text-align:right;
 }
 table{
     width:95%;
