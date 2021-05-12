@@ -42,7 +42,7 @@ hr{
 }
 .vertical{
     border-left:2px solid rgb(0,0,255);
-    height:154%;
+    height:1000px;
     position:absolute;
     left:37%;
 }
@@ -71,6 +71,11 @@ h4{
     width : 60%;
     margin:2px;
     padding :1px;
+}
+#exps{
+    text-align:left;
+    color:rgb(0,0,255);
+    width:90%;
 }
 table{
     width:95%;
